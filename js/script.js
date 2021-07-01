@@ -1,3 +1,4 @@
+
 // function myMap() {
 //   var mapProp= {
 //     center:new google.maps.LatLng(51.508742,-0.120850),
@@ -8,5 +9,4 @@
 
 var map = function(lat, lng) {
   var googleMap = document.getElementById("google-map");
-  
 }
